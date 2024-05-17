@@ -9,4 +9,5 @@
 * create profile in pom.xml
 * add allure properties
 * create first test
-* refactor test using allure wrapper
+* create second test
+* refactor tests using utilities
